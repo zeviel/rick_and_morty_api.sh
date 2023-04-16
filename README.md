@@ -3,6 +3,6 @@ Web-API for [rickandmortyapi.com](https://rickandmortyapi.com) which is a REST a
 
 ## Example
 ```bash
-source rick_and_morty_api.sh
+source ./rick_and_morty_api.sh
 get_all_locations "page"
 ```
